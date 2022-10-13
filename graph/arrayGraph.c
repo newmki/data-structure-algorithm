@@ -1,4 +1,4 @@
-#include "arraygraph.h"
+#include "arrayGraph.h"
 
 /*
 typedef struct ArrayGraphType

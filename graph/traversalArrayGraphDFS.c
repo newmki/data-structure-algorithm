@@ -1,4 +1,4 @@
-#include "arraygraph.h"
+#include "arrayGraph.h"
 
 int all_visit(int *visited, int size)
 {

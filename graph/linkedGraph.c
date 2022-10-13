@@ -1,4 +1,4 @@
-#include "linkedgraph.h"
+#include "linkedGraph.h"
 
 // 그래프 생성
 LinkedGraph* createLinkedGraph(int maxVertexCount)

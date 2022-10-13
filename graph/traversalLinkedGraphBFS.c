@@ -1,5 +1,5 @@
 #include "linkedDeque.h"
-#include "linkedgraph.h"
+#include "linkedGraph.h"
 
 void traversal_LG_BFS(LinkedGraph *pGraph, int vertexID)
 {

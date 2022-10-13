@@ -1,5 +1,5 @@
 #include "linkedDeque.h"
-#include "arraygraph.h"
+#include "arrayGraph.h"
 
 /*
 typedef struct DequeNodeType

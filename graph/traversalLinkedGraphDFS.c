@@ -1,4 +1,4 @@
-#include "linkedgraph.h"
+#include "linkedGraph.h"
 
 int all_visit(int *visited, int size)
 {
